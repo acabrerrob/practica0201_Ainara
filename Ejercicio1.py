@@ -1,4 +1,7 @@
-nombreUsuario= input ('¿Cual es su nombre de usuario?')
-entero= int (input('Introduzca un número entero'))
+name= input ('¿Cual es su nombre de usuario? ')
+num= int (input('Introduzca un número entero '))
 
-print(nombreUsuario * entero) 
+for x in range(num):
+    print(name)
+    
+
