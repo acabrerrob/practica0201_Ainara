@@ -1,6 +1,10 @@
 #pedri productos de compra separados por comas , imprimirlos en lineas distitas
-shoppingL = input('Introduzca la lista de la comrpa separando cada artículo por comas')
+list = input('Introduzca la lista de la comrpa separando cada artículo por comas')
 
-splitshoppingL = shoppingL.split(',')
 
-print(splitshoppingL+(\n))
+splitlist = list.split(',') 
+
+for list in  splitlist:
+    print(list)
+else :
+    print('sos un gil')
