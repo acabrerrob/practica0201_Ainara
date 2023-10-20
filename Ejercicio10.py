@@ -1,4 +1,4 @@
-list = input('Introduzca la lista de la comrpa separando cada artículo por comas')
+list = input('Introduzca la lista de la compra separando cada artículo por comas')
 
 splitlist = list.split(',') 
 
