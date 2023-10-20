@@ -2,5 +2,5 @@ list = input('Introduzca la lista de la compra separando cada artículo por coma
 
 splitlist = list.split(',') 
 
-for x in  splitlist:
-    print(x)
+for listItem in  splitlist:
+    print(listItem)
