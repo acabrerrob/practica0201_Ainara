@@ -1,4 +1,4 @@
-price = input ('Introduzca el preio en euros con 2 decimales ')
+price = input ('Introduzca el precio en euros con 2 decimales ')
 
 splitprice = price.split('.')
 
